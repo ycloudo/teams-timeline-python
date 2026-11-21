@@ -172,3 +172,7 @@ SQLite 表：
 ## 驗證狀態
 
 2026-11-15 完成兩個聊天的受限真實驗證與重啟續跑，結果為 `partial`，詳見 [VALIDATION.md](VALIDATION.md)。尚未完成全聊天與長期運行驗證。舊版 Node 資料與 profile 保存在 `data/legacy-node/`，未合併到新版資料庫。
+
+## License
+
+[MIT](LICENSE)
